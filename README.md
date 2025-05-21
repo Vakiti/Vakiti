@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on economic trend forecasting and spatial data integration for forest product industries as a Data Scientist Researcher.<br><br>Looking to collab on data-driven public sector research, especially projects that intersect economics, policy, and sustainability.<br><br>I am currently learning advanced forecasting models and scalable data engineering techniques in R and Python.<br><br>Ask me about healthcare claim analytics, insurance denial trends, or building BI dashboards that drive real-time decisions.<br><br>I'm always open to discussing forest economics, data ethics in public policy, or mentoring data science students.
+I am currently working on economic trend forecasting and spatial data integration for forest product industries as a Data Scientist Researcher. I'm loooking to collaborate on data-driven research, especially projects that intersect economics, policy, and sustainability. I am currently learning advanced forecasting models and scalable data engineering techniques in R and Python.<br><br>You can ask me about healthcare claim analytics, insurance denial trends, or building BI dashboards that drive real-time decisions. Lastly, I'm always open to discussing forest economics, data ethics in public policy, and giving back to the field by helping out my fellow data science enthusiasts!
 
 
 ## 🌐 Socials:
